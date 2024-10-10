@@ -2,7 +2,7 @@
 ***"Remember this is a family restaurant"***
 
 ## Overview
-I want to make a bot for our Google Chat at the Help Desk which will cite infractions of our "Help Desk Rules" which can be (found here)[https://docs.google.com/spreadsheets/d/1U2-3ZvXdyjR2v7_pV8a9iDZVZPiSv0bGeapQZ6BZa9E/edit?gid=0#gid=0]
+I want to make a bot for our Google Chat at the Help Desk which will cite infractions of our "Help Desk Rules" which can be [found here](https://docs.google.com/spreadsheets/d/1U2-3ZvXdyjR2v7_pV8a9iDZVZPiSv0bGeapQZ6BZa9E/edit?gid=0#gid=0)
 
 ## (Future) Features
 * Will cite infractions of Help Desk Rules like so:
